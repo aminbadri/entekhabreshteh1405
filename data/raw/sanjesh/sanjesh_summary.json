@@ -1,0 +1,4464 @@
+{
+  "meta": {
+    "title": "اطلس ظرفیت پذیرش دانشگاه‌های ایران ۱۴۰۴",
+    "year": 1404,
+    "rowCount": 40538,
+    "activeRowCount": 40534,
+    "inactiveRowCount": 4,
+    "columnCount": 37,
+    "capacity": 602966,
+    "universities": 839,
+    "fields": 2777,
+    "degrees": 5,
+    "sourceOrganization": "سازمان سنجش آموزش کشور",
+    "compiledBy": "حسین کریمی",
+    "linkedIn": "https://www.linkedin.com/in/hossein-karimi-8a452153/",
+    "sources": [
+      {
+        "degree": "آزمون سراسری / کارشناسی و کاردانی",
+        "label": "دفترچه‌های انتخاب رشته آزمون سراسری و پذیرش صرفاً بر اساس سوابق تحصیلی ۱۴۰۴",
+        "url": "https://sanjesh.org/fa-IR/sanjesh/4936/news/view/14591/13151/Staging",
+        "publisher": "سازمان سنجش آموزش کشور"
+      },
+      {
+        "degree": "کارشناسی ارشد",
+        "label": "دفترچه انتخاب رشته آزمون کارشناسی ارشد ناپیوسته ۱۴۰۴ — نسخه v2",
+        "url": "https://www8.sanjesh.org/download/1404/arshad/CsArshadNoet1404_v2.pdf",
+        "publisher": "سازمان سنجش آموزش کشور"
+      },
+      {
+        "degree": "دکتری تخصصی",
+        "label": "دفترچه انتخاب رشته آزمون دکتری تخصصی ۱۴۰۴ — نسخه v2",
+        "url": "https://www8.sanjesh.org/download/1404/phd/NOETCsPhd1404_v2.pdf",
+        "publisher": "سازمان سنجش آموزش کشور"
+      }
+    ]
+  },
+  "totals": {
+    "records": 40534,
+    "capacity": 602966,
+    "universities": 839,
+    "fields": 2777,
+    "medianCapacityPerRecord": 8.0,
+    "meanCapacityPerRecord": 14.88,
+    "p90CapacityPerRecord": 40.0,
+    "maxCapacityPerRecord": 165
+  },
+  "byDegree": [
+    {
+      "name": "کارشناسی",
+      "records": 16700,
+      "capacity": 410485,
+      "universities": 747,
+      "fields": 296
+    },
+    {
+      "name": "کارشناسی ارشد",
+      "records": 16406,
+      "capacity": 133775,
+      "universities": 524,
+      "fields": 2187
+    },
+    {
+      "name": "کاردانی",
+      "records": 353,
+      "capacity": 22396,
+      "universities": 174,
+      "fields": 43
+    },
+    {
+      "name": "دکتری حرفه ای",
+      "records": 1351,
+      "capacity": 20990,
+      "universities": 137,
+      "fields": 9
+    },
+    {
+      "name": "دکتری تخصصی (Ph.D)",
+      "records": 5724,
+      "capacity": 15320,
+      "universities": 146,
+      "fields": 538
+    }
+  ],
+  "bySubsystem": [
+    {
+      "name": "دانشگاه/مؤسسه دولتی - وزارت علوم",
+      "records": 23878,
+      "capacity": 209454,
+      "universities": 219,
+      "fields": 2180
+    },
+    {
+      "name": "دانشگاه پیام نور",
+      "records": 6148,
+      "capacity": 179558,
+      "universities": 272,
+      "fields": 429
+    },
+    {
+      "name": "مؤسسات آموزش عالی غیردولتی - غیرانتفاعی",
+      "records": 5128,
+      "capacity": 156241,
+      "universities": 216,
+      "fields": 743
+    },
+    {
+      "name": "دانشگاه‌ها و دانشکده‌های علوم پزشکی",
+      "records": 2978,
+      "capacity": 40944,
+      "universities": 69,
+      "fields": 36
+    },
+    {
+      "name": "پردیس خودگردان دانشگاه دولتی",
+      "records": 1692,
+      "capacity": 7450,
+      "universities": 32,
+      "fields": 683
+    },
+    {
+      "name": "دانشگاه/مؤسسه وابسته به دستگاه اجرایی یا نیروهای مسلح",
+      "records": 288,
+      "capacity": 2914,
+      "universities": 7,
+      "fields": 179
+    },
+    {
+      "name": "دانشگاه آزاد اسلامی",
+      "records": 77,
+      "capacity": 2515,
+      "universities": 34,
+      "fields": 4
+    },
+    {
+      "name": "آموزش عالی غیردولتی / ظرفیت مشترک",
+      "records": 76,
+      "capacity": 1296,
+      "universities": 2,
+      "fields": 27
+    },
+    {
+      "name": "دانشگاه تربیت دبیر شهید رجایی",
+      "records": 155,
+      "capacity": 949,
+      "universities": 2,
+      "fields": 75
+    },
+    {
+      "name": "دانشگاه فرهنگیان",
+      "records": 36,
+      "capacity": 700,
+      "universities": 18,
+      "fields": 15
+    },
+    {
+      "name": "دانشگاه/مؤسسه وابسته به قوه قضاییه",
+      "records": 17,
+      "capacity": 595,
+      "universities": 1,
+      "fields": 6
+    },
+    {
+      "name": "دانشگاه/مؤسسه وابسته به صدا و سیما",
+      "records": 61,
+      "capacity": 350,
+      "universities": 1,
+      "fields": 19
+    }
+  ],
+  "byCourse": [
+    {
+      "name": "روزانه",
+      "records": 17930,
+      "capacity": 211374,
+      "universities": 313,
+      "fields": 1958
+    },
+    {
+      "name": "پیام نور",
+      "records": 6148,
+      "capacity": 179558,
+      "universities": 272,
+      "fields": 429
+    },
+    {
+      "name": "غیرانتفاعی",
+      "records": 4926,
+      "capacity": 151030,
+      "universities": 208,
+      "fields": 707
+    },
+    {
+      "name": "نوبت دوم",
+      "records": 7041,
+      "capacity": 27449,
+      "universities": 174,
+      "fields": 1364
+    },
+    {
+      "name": "پردیس خودگردان",
+      "records": 1692,
+      "capacity": 7450,
+      "universities": 32,
+      "fields": 683
+    },
+    {
+      "name": "مناطق محروم / تعهد خدمت",
+      "records": 1550,
+      "capacity": 7382,
+      "universities": 127,
+      "fields": 137
+    },
+    {
+      "name": "مجازی - غیرانتفاعی",
+      "records": 162,
+      "capacity": 5321,
+      "universities": 11,
+      "fields": 114
+    },
+    {
+      "name": "مجازی",
+      "records": 187,
+      "capacity": 5244,
+      "universities": 22,
+      "fields": 135
+    },
+    {
+      "name": "شهریه پرداز",
+      "records": 688,
+      "capacity": 4050,
+      "universities": 65,
+      "fields": 30
+    },
+    {
+      "name": "دانشگاه آزاد اسلامی - تمام وقت",
+      "records": 46,
+      "capacity": 2100,
+      "universities": 33,
+      "fields": 4
+    },
+    {
+      "name": "روزانه - غیردولتی",
+      "records": 112,
+      "capacity": 1455,
+      "universities": 4,
+      "fields": 58
+    },
+    {
+      "name": "دانشگاه آزاد اسلامی - خودگردان",
+      "records": 31,
+      "capacity": 415,
+      "universities": 20,
+      "fields": 3
+    },
+    {
+      "name": "غیردولتی",
+      "records": 15,
+      "capacity": 106,
+      "universities": 2,
+      "fields": 10
+    },
+    {
+      "name": "مشترک",
+      "records": 6,
+      "capacity": 32,
+      "universities": 3,
+      "fields": 4
+    }
+  ],
+  "byAdmission": [
+    {
+      "name": "صرفاً بر اساس سوابق تحصیلی",
+      "records": 8724,
+      "capacity": 307361,
+      "universities": 615,
+      "fields": 211
+    },
+    {
+      "name": "با آزمون",
+      "records": 26086,
+      "capacity": 280285,
+      "universities": 708,
+      "fields": 2398
+    },
+    {
+      "name": "با آزمون + ارزیابی تخصصی/مصاحبه",
+      "records": 5724,
+      "capacity": 15320,
+      "universities": 146,
+      "fields": 538
+    }
+  ],
+  "byGender": [
+    {
+      "name": "زن و مرد",
+      "records": 36791,
+      "capacity": 555803,
+      "universities": 735,
+      "fields": 2609
+    },
+    {
+      "name": "زن",
+      "records": 1950,
+      "capacity": 29074,
+      "universities": 206,
+      "fields": 400
+    },
+    {
+      "name": "مرد",
+      "records": 1793,
+      "capacity": 18089,
+      "universities": 190,
+      "fields": 409
+    }
+  ],
+  "bySector": [
+    {
+      "name": "دولتی",
+      "records": 26856,
+      "capacity": 250398,
+      "universities": 288,
+      "fields": 2204
+    },
+    {
+      "name": "دولتی - آموزش از راه دور",
+      "records": 6148,
+      "capacity": 179558,
+      "universities": 272,
+      "fields": 429
+    },
+    {
+      "name": "غیردولتی",
+      "records": 5281,
+      "capacity": 160052,
+      "universities": 252,
+      "fields": 759
+    },
+    {
+      "name": "دولتی - شهریه‌پرداز",
+      "records": 1692,
+      "capacity": 7450,
+      "universities": 32,
+      "fields": 683
+    },
+    {
+      "name": "دولتی/حاکمیتی - وابسته",
+      "records": 366,
+      "capacity": 3859,
+      "universities": 9,
+      "fields": 194
+    },
+    {
+      "name": "دولتی - مأموریت‌گرا",
+      "records": 191,
+      "capacity": 1649,
+      "universities": 20,
+      "fields": 82
+    }
+  ],
+  "byGoverning": [
+    {
+      "name": "وزارت علوم، تحقیقات و فناوری",
+      "records": 36922,
+      "capacity": 553999,
+      "universities": 708,
+      "fields": 2663
+    },
+    {
+      "name": "وزارت بهداشت، درمان و آموزش پزشکی",
+      "records": 2978,
+      "capacity": 40944,
+      "universities": 69,
+      "fields": 36
+    },
+    {
+      "name": "دستگاه اجرایی یا نیروهای مسلح (بر اساس نام مؤسسه)",
+      "records": 288,
+      "capacity": 2914,
+      "universities": 7,
+      "fields": 179
+    },
+    {
+      "name": "دانشگاه آزاد اسلامی",
+      "records": 77,
+      "capacity": 2515,
+      "universities": 34,
+      "fields": 4
+    },
+    {
+      "name": "وزارت آموزش و پرورش",
+      "records": 191,
+      "capacity": 1649,
+      "universities": 20,
+      "fields": 82
+    },
+    {
+      "name": "قوه قضاییه",
+      "records": 17,
+      "capacity": 595,
+      "universities": 1,
+      "fields": 6
+    },
+    {
+      "name": "سازمان صدا و سیمای جمهوری اسلامی ایران",
+      "records": 61,
+      "capacity": 350,
+      "universities": 1,
+      "fields": 19
+    }
+  ],
+  "byExamGroup": [
+    {
+      "name": "علوم انسانی",
+      "records": 6190,
+      "capacity": 207139,
+      "universities": 587,
+      "fields": 153
+    },
+    {
+      "name": "نامشخص/غیرقابل اعمال",
+      "records": 22130,
+      "capacity": 149095,
+      "universities": 531,
+      "fields": 2510
+    },
+    {
+      "name": "علوم ریاضی و فنی",
+      "records": 5204,
+      "capacity": 124898,
+      "universities": 626,
+      "fields": 113
+    },
+    {
+      "name": "علوم تجربی",
+      "records": 5783,
+      "capacity": 88032,
+      "universities": 475,
+      "fields": 118
+    },
+    {
+      "name": "زبان های خارجی",
+      "records": 562,
+      "capacity": 17722,
+      "universities": 285,
+      "fields": 16
+    },
+    {
+      "name": "هنر",
+      "records": 665,
+      "capacity": 16080,
+      "universities": 154,
+      "fields": 38
+    }
+  ],
+  "byProvince": [
+    {
+      "name": "تهران",
+      "records": 8609,
+      "capacity": 83344,
+      "universities": 100,
+      "fields": 1581
+    },
+    {
+      "name": "اصفهان",
+      "records": 2691,
+      "capacity": 44323,
+      "universities": 59,
+      "fields": 638
+    },
+    {
+      "name": "خراسان رضوی",
+      "records": 2490,
+      "capacity": 43413,
+      "universities": 63,
+      "fields": 584
+    },
+    {
+      "name": "مازندران",
+      "records": 2315,
+      "capacity": 42611,
+      "universities": 68,
+      "fields": 583
+    },
+    {
+      "name": "فارس",
+      "records": 1919,
+      "capacity": 34485,
+      "universities": 53,
+      "fields": 478
+    },
+    {
+      "name": "آذربایجان شرقی",
+      "records": 2279,
+      "capacity": 31547,
+      "universities": 43,
+      "fields": 565
+    },
+    {
+      "name": "خوزستان",
+      "records": 1211,
+      "capacity": 22711,
+      "universities": 40,
+      "fields": 411
+    },
+    {
+      "name": "کرمان",
+      "records": 1482,
+      "capacity": 22606,
+      "universities": 40,
+      "fields": 412
+    },
+    {
+      "name": "آذربایجان غربی",
+      "records": 1248,
+      "capacity": 19041,
+      "universities": 29,
+      "fields": 384
+    },
+    {
+      "name": "سمنان",
+      "records": 1303,
+      "capacity": 18832,
+      "universities": 27,
+      "fields": 389
+    },
+    {
+      "name": "قم",
+      "records": 1098,
+      "capacity": 18417,
+      "universities": 29,
+      "fields": 396
+    },
+    {
+      "name": "گیلان",
+      "records": 1134,
+      "capacity": 17569,
+      "universities": 28,
+      "fields": 349
+    },
+    {
+      "name": "سیستان و بلوچستان",
+      "records": 1226,
+      "capacity": 17526,
+      "universities": 27,
+      "fields": 342
+    },
+    {
+      "name": "یزد",
+      "records": 980,
+      "capacity": 16851,
+      "universities": 19,
+      "fields": 341
+    },
+    {
+      "name": "قزوین",
+      "records": 718,
+      "capacity": 15673,
+      "universities": 18,
+      "fields": 273
+    },
+    {
+      "name": "همدان",
+      "records": 992,
+      "capacity": 14498,
+      "universities": 23,
+      "fields": 351
+    },
+    {
+      "name": "گلستان",
+      "records": 833,
+      "capacity": 13115,
+      "universities": 22,
+      "fields": 297
+    },
+    {
+      "name": "کرمانشاه",
+      "records": 705,
+      "capacity": 12405,
+      "universities": 19,
+      "fields": 304
+    },
+    {
+      "name": "البرز",
+      "records": 1075,
+      "capacity": 11645,
+      "universities": 13,
+      "fields": 429
+    },
+    {
+      "name": "مرکزی",
+      "records": 630,
+      "capacity": 11433,
+      "universities": 21,
+      "fields": 232
+    },
+    {
+      "name": "لرستان",
+      "records": 668,
+      "capacity": 9812,
+      "universities": 17,
+      "fields": 236
+    },
+    {
+      "name": "کردستان",
+      "records": 535,
+      "capacity": 9753,
+      "universities": 14,
+      "fields": 250
+    },
+    {
+      "name": "هرمزگان",
+      "records": 697,
+      "capacity": 9597,
+      "universities": 23,
+      "fields": 242
+    },
+    {
+      "name": "زنجان",
+      "records": 539,
+      "capacity": 9199,
+      "universities": 11,
+      "fields": 264
+    },
+    {
+      "name": "خراسان جنوبی",
+      "records": 618,
+      "capacity": 9040,
+      "universities": 13,
+      "fields": 219
+    },
+    {
+      "name": "اردبیل",
+      "records": 572,
+      "capacity": 8863,
+      "universities": 12,
+      "fields": 264
+    },
+    {
+      "name": "بوشهر",
+      "records": 408,
+      "capacity": 8751,
+      "universities": 14,
+      "fields": 168
+    },
+    {
+      "name": "خراسان شمالی",
+      "records": 387,
+      "capacity": 7961,
+      "universities": 15,
+      "fields": 143
+    },
+    {
+      "name": "چهارمحال و بختیاری",
+      "records": 433,
+      "capacity": 6502,
+      "universities": 11,
+      "fields": 215
+    },
+    {
+      "name": "کهگیلویه و بویراحمد",
+      "records": 414,
+      "capacity": 5944,
+      "universities": 9,
+      "fields": 163
+    },
+    {
+      "name": "ایلام",
+      "records": 325,
+      "capacity": 5499,
+      "universities": 7,
+      "fields": 177
+    }
+  ],
+  "topUniversities": [
+    {
+      "name": "دانشگاه تهران",
+      "capacity": 12402,
+      "records": 2190,
+      "fields": 837,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه تبریز",
+      "capacity": 6105,
+      "records": 1013,
+      "fields": 349,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه گیلان",
+      "capacity": 5198,
+      "records": 620,
+      "fields": 235,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه شهید بهشتی",
+      "capacity": 5073,
+      "records": 987,
+      "fields": 380,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه فردوسی مشهد",
+      "capacity": 4784,
+      "records": 783,
+      "fields": 364,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه شهید باهنر کرمان",
+      "capacity": 4368,
+      "records": 450,
+      "fields": 255,
+      "universities": 1,
+      "degrees": 5
+    },
+    {
+      "name": "دانشگاه خوارزمی",
+      "capacity": 4343,
+      "records": 520,
+      "fields": 257,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه اصفهان",
+      "capacity": 4298,
+      "records": 688,
+      "fields": 282,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه ارومیه",
+      "capacity": 4232,
+      "records": 635,
+      "fields": 257,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه شیراز",
+      "capacity": 4230,
+      "records": 696,
+      "fields": 322,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه یزد",
+      "capacity": 4189,
+      "records": 410,
+      "fields": 194,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه سمنان",
+      "capacity": 3989,
+      "records": 461,
+      "fields": 190,
+      "universities": 1,
+      "degrees": 5
+    },
+    {
+      "name": "دانشگاه مازندران",
+      "capacity": 3929,
+      "records": 520,
+      "fields": 232,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه رازی",
+      "capacity": 3752,
+      "records": 320,
+      "fields": 213,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه محقق اردبیلی",
+      "capacity": 3689,
+      "records": 371,
+      "fields": 226,
+      "universities": 1,
+      "degrees": 5
+    },
+    {
+      "name": "دانشگاه بیرجند",
+      "capacity": 3670,
+      "records": 357,
+      "fields": 163,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه علم و صنعت ایران",
+      "capacity": 3572,
+      "records": 433,
+      "fields": 169,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه زنجان",
+      "capacity": 3499,
+      "records": 267,
+      "fields": 184,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه شهید چمران اهواز",
+      "capacity": 3496,
+      "records": 327,
+      "fields": 240,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه سیستان و بلوچستان",
+      "capacity": 3480,
+      "records": 285,
+      "fields": 168,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه بوعلی سینا",
+      "capacity": 3467,
+      "records": 394,
+      "fields": 208,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه کردستان",
+      "capacity": 3440,
+      "records": 297,
+      "fields": 195,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه پیام نور استان خراسان رضوی - مرکز مشهد",
+      "capacity": 3410,
+      "records": 126,
+      "fields": 110,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه صنعتی اصفهان",
+      "capacity": 3399,
+      "records": 362,
+      "fields": 157,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه علامه طباطبایی",
+      "capacity": 3325,
+      "records": 638,
+      "fields": 229,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه صنعتی شاهرود",
+      "capacity": 3273,
+      "records": 336,
+      "fields": 153,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه صنعتی امیرکبیر",
+      "capacity": 3071,
+      "records": 418,
+      "fields": 181,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه الزهرا ( س )",
+      "capacity": 3029,
+      "records": 368,
+      "fields": 169,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان اصفهان - مرکز اصفهان",
+      "capacity": 2979,
+      "records": 109,
+      "fields": 95,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه قم",
+      "capacity": 2957,
+      "records": 234,
+      "fields": 117,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان فارس - مرکز شیراز",
+      "capacity": 2933,
+      "records": 102,
+      "fields": 93,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه زابل",
+      "capacity": 2921,
+      "records": 320,
+      "fields": 123,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی علم و فرهنگ",
+      "capacity": 2918,
+      "records": 117,
+      "fields": 89,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان آذربایجان شرقی - مرکز تبریز",
+      "capacity": 2841,
+      "records": 102,
+      "fields": 85,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه لرستان",
+      "capacity": 2780,
+      "records": 315,
+      "fields": 173,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی امام رضا ( ع )",
+      "capacity": 2675,
+      "records": 99,
+      "fields": 51,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه حکیم سبزواری",
+      "capacity": 2617,
+      "records": 200,
+      "fields": 127,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه تربیت مدرس",
+      "capacity": 2602,
+      "records": 629,
+      "fields": 292,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان خوزستان - مرکز اهواز",
+      "capacity": 2520,
+      "records": 79,
+      "fields": 68,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه شهید مدنی آذربایجان",
+      "capacity": 2453,
+      "records": 239,
+      "fields": 114,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه صنعتی شریف",
+      "capacity": 2448,
+      "records": 237,
+      "fields": 121,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه اراک",
+      "capacity": 2439,
+      "records": 234,
+      "fields": 134,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی شهید اشرفی اصفهانی",
+      "capacity": 2406,
+      "records": 64,
+      "fields": 58,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "موسسه غیرانتفاعی کار",
+      "capacity": 2360,
+      "records": 69,
+      "fields": 45,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه صنعتی سهند",
+      "capacity": 2347,
+      "records": 170,
+      "fields": 88,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه ولی عصر ( عج ) رفسنجان",
+      "capacity": 2322,
+      "records": 205,
+      "fields": 112,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه پیام نور استان البرز - مرکز کرج",
+      "capacity": 2318,
+      "records": 107,
+      "fields": 90,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه صنعتی خواجه نصیرالدین طوسی",
+      "capacity": 2298,
+      "records": 274,
+      "fields": 118,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی زند شیراز",
+      "capacity": 2280,
+      "records": 54,
+      "fields": 52,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه بجنورد",
+      "capacity": 2262,
+      "records": 140,
+      "fields": 77,
+      "universities": 1,
+      "degrees": 5
+    },
+    {
+      "name": "دانشگاه کاشان",
+      "capacity": 2235,
+      "records": 379,
+      "fields": 147,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه شهرکرد",
+      "capacity": 2234,
+      "records": 256,
+      "fields": 163,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "موسسه غیرانتفاعی معماری و هنر پارس",
+      "capacity": 2215,
+      "records": 62,
+      "fields": 55,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه بین المللی امام خمینی ( ره )",
+      "capacity": 2143,
+      "records": 260,
+      "fields": 143,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه یاسوج",
+      "capacity": 2136,
+      "records": 253,
+      "fields": 110,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه پیام نور استان آذربایجان غربی - مرکز ارومیه",
+      "capacity": 2129,
+      "records": 75,
+      "fields": 67,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان تهران - تهران جنوب",
+      "capacity": 2128,
+      "records": 75,
+      "fields": 54,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان قم - مرکز قم",
+      "capacity": 2097,
+      "records": 70,
+      "fields": 61,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه شاهد",
+      "capacity": 2069,
+      "records": 246,
+      "fields": 134,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی ایوانکی",
+      "capacity": 2011,
+      "records": 58,
+      "fields": 54,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه هرمزگان",
+      "capacity": 2000,
+      "records": 304,
+      "fields": 112,
+      "universities": 1,
+      "degrees": 5
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی شمال",
+      "capacity": 1940,
+      "records": 62,
+      "fields": 58,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه خلیج فارس",
+      "capacity": 1938,
+      "records": 133,
+      "fields": 90,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "موسسه غیرانتفاعی ارشاد",
+      "capacity": 1935,
+      "records": 86,
+      "fields": 35,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی علم و هنر",
+      "capacity": 1932,
+      "records": 70,
+      "fields": 61,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان بوشهر - مرکز بوشهر",
+      "capacity": 1920,
+      "records": 67,
+      "fields": 61,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه ایلام",
+      "capacity": 1904,
+      "records": 167,
+      "fields": 122,
+      "universities": 1,
+      "degrees": 5
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی طلوع مهر",
+      "capacity": 1877,
+      "records": 91,
+      "fields": 46,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی شهاب دانش",
+      "capacity": 1876,
+      "records": 52,
+      "fields": 48,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی خیام",
+      "capacity": 1829,
+      "records": 45,
+      "fields": 40,
+      "universities": 1,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه پیام نور استان کرمانشاه - مرکز کرمانشاه",
+      "capacity": 1802,
+      "records": 68,
+      "fields": 62,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی آل طه",
+      "capacity": 1798,
+      "records": 44,
+      "fields": 38,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی آپادانا",
+      "capacity": 1795,
+      "records": 46,
+      "fields": 44,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه ملایر",
+      "capacity": 1790,
+      "records": 145,
+      "fields": 88,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان کرمان - مرکز کرمان",
+      "capacity": 1778,
+      "records": 66,
+      "fields": 59,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان همدان - مرکز همدان",
+      "capacity": 1756,
+      "records": 69,
+      "fields": 66,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی دانش البرز",
+      "capacity": 1698,
+      "records": 51,
+      "fields": 45,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان مازندران - مرکز ساری",
+      "capacity": 1678,
+      "records": 63,
+      "fields": 55,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان کردستان - مرکز سنندج",
+      "capacity": 1656,
+      "records": 61,
+      "fields": 57,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه صنعتی نوشیروانی بابل",
+      "capacity": 1637,
+      "records": 172,
+      "fields": 71,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان قزوین - مرکز قزوین",
+      "capacity": 1620,
+      "records": 60,
+      "fields": 56,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان گیلان - مرکز رشت",
+      "capacity": 1618,
+      "records": 54,
+      "fields": 51,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان هرمزگان - مرکز بندرعباس",
+      "capacity": 1601,
+      "records": 48,
+      "fields": 46,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان اردبیل - مرکز اردبیل",
+      "capacity": 1582,
+      "records": 53,
+      "fields": 50,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی هشت بهشت اصفهان پویا",
+      "capacity": 1537,
+      "records": 35,
+      "fields": 34,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه علوم پزشکی شیراز",
+      "capacity": 1526,
+      "records": 114,
+      "fields": 23,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی امام جواد ( ع )",
+      "capacity": 1520,
+      "records": 35,
+      "fields": 33,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی دانش پژوهان پیشرو",
+      "capacity": 1507,
+      "records": 42,
+      "fields": 38,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان تهران - واحد ری",
+      "capacity": 1473,
+      "records": 61,
+      "fields": 52,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی شمس",
+      "capacity": 1465,
+      "records": 37,
+      "fields": 34,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان مرکزی - مرکز اراک",
+      "capacity": 1446,
+      "records": 49,
+      "fields": 47,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان یزد - مرکز یزد",
+      "capacity": 1437,
+      "records": 58,
+      "fields": 57,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه گلستان",
+      "capacity": 1433,
+      "records": 178,
+      "fields": 87,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان چهارمحال و بختیاری - مرکز شهرکرد",
+      "capacity": 1416,
+      "records": 47,
+      "fields": 45,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی سجاد",
+      "capacity": 1400,
+      "records": 45,
+      "fields": 43,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی رجا",
+      "capacity": 1400,
+      "records": 38,
+      "fields": 37,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی آیندگان",
+      "capacity": 1386,
+      "records": 50,
+      "fields": 45,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی نبی اکرم ( ص )",
+      "capacity": 1384,
+      "records": 42,
+      "fields": 34,
+      "universities": 1,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی خاتم",
+      "capacity": 1381,
+      "records": 77,
+      "fields": 63,
+      "universities": 1,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان مازندران - مرکز بابل",
+      "capacity": 1373,
+      "records": 57,
+      "fields": 54,
+      "universities": 1,
+      "degrees": 2
+    }
+  ],
+  "topFields": [
+    {
+      "name": "حسابداری",
+      "capacity": 25713,
+      "records": 1396,
+      "fields": 1,
+      "universities": 484,
+      "degrees": 3
+    },
+    {
+      "name": "روانشناسی",
+      "capacity": 20760,
+      "records": 729,
+      "fields": 1,
+      "universities": 404,
+      "degrees": 1
+    },
+    {
+      "name": "حقوق",
+      "capacity": 20476,
+      "records": 468,
+      "fields": 1,
+      "universities": 398,
+      "degrees": 2
+    },
+    {
+      "name": "مهندسی کامپیوتر",
+      "capacity": 18239,
+      "records": 647,
+      "fields": 1,
+      "universities": 410,
+      "degrees": 2
+    },
+    {
+      "name": "علوم تربیتی",
+      "capacity": 15112,
+      "records": 330,
+      "fields": 1,
+      "universities": 304,
+      "degrees": 1
+    },
+    {
+      "name": "مدیریت بازرگانی",
+      "capacity": 14720,
+      "records": 598,
+      "fields": 1,
+      "universities": 391,
+      "degrees": 1
+    },
+    {
+      "name": "دکتری عمومی پزشکی",
+      "capacity": 13383,
+      "records": 729,
+      "fields": 1,
+      "universities": 71,
+      "degrees": 1
+    },
+    {
+      "name": "علوم ورزشی",
+      "capacity": 11168,
+      "records": 599,
+      "fields": 1,
+      "universities": 235,
+      "degrees": 1
+    },
+    {
+      "name": "مهندسی برق",
+      "capacity": 11104,
+      "records": 313,
+      "fields": 1,
+      "universities": 203,
+      "degrees": 1
+    },
+    {
+      "name": "مهندسی عمران",
+      "capacity": 10509,
+      "records": 314,
+      "fields": 1,
+      "universities": 221,
+      "degrees": 1
+    },
+    {
+      "name": "مهندسی معماری",
+      "capacity": 10085,
+      "records": 386,
+      "fields": 1,
+      "universities": 220,
+      "degrees": 2
+    },
+    {
+      "name": "مدیریت دولتی",
+      "capacity": 8821,
+      "records": 320,
+      "fields": 1,
+      "universities": 251,
+      "degrees": 1
+    },
+    {
+      "name": "مترجمی زبان انگلیسی",
+      "capacity": 8784,
+      "records": 269,
+      "fields": 1,
+      "universities": 210,
+      "degrees": 2
+    },
+    {
+      "name": "مهندسی مکانیک",
+      "capacity": 8255,
+      "records": 268,
+      "fields": 1,
+      "universities": 166,
+      "degrees": 1
+    },
+    {
+      "name": "مهندسی صنایع و سیستم ها",
+      "capacity": 7997,
+      "records": 287,
+      "fields": 1,
+      "universities": 218,
+      "degrees": 1
+    },
+    {
+      "name": "زبان و ادبیات فارسی",
+      "capacity": 7779,
+      "records": 403,
+      "fields": 1,
+      "universities": 198,
+      "degrees": 3
+    },
+    {
+      "name": "مشاوره",
+      "capacity": 7522,
+      "records": 218,
+      "fields": 1,
+      "universities": 183,
+      "degrees": 2
+    },
+    {
+      "name": "فقه و مبانی حقوق اسالمی",
+      "capacity": 7077,
+      "records": 306,
+      "fields": 1,
+      "universities": 208,
+      "degrees": 3
+    },
+    {
+      "name": "پرستاری",
+      "capacity": 6719,
+      "records": 447,
+      "fields": 1,
+      "universities": 71,
+      "degrees": 1
+    },
+    {
+      "name": "مدیریت صنعتی",
+      "capacity": 6559,
+      "records": 319,
+      "fields": 1,
+      "universities": 206,
+      "degrees": 1
+    },
+    {
+      "name": "مدیریت مالی",
+      "capacity": 6145,
+      "records": 233,
+      "fields": 1,
+      "universities": 133,
+      "degrees": 2
+    },
+    {
+      "name": "علوم قرآن و حدیث",
+      "capacity": 5628,
+      "records": 307,
+      "fields": 1,
+      "universities": 123,
+      "degrees": 3
+    },
+    {
+      "name": "زیست شناسی سلولی و مولکولی",
+      "capacity": 5581,
+      "records": 225,
+      "fields": 1,
+      "universities": 154,
+      "degrees": 3
+    },
+    {
+      "name": "آموزش زبان انگلیسی",
+      "capacity": 5245,
+      "records": 284,
+      "fields": 1,
+      "universities": 131,
+      "degrees": 3
+    },
+    {
+      "name": "اقتصاد",
+      "capacity": 5240,
+      "records": 360,
+      "fields": 1,
+      "universities": 149,
+      "degrees": 1
+    },
+    {
+      "name": "کاردانی حسابداری",
+      "capacity": 5171,
+      "records": 65,
+      "fields": 1,
+      "universities": 62,
+      "degrees": 1
+    },
+    {
+      "name": "مدیریت امور بانکی",
+      "capacity": 5151,
+      "records": 136,
+      "fields": 1,
+      "universities": 123,
+      "degrees": 1
+    },
+    {
+      "name": "جامعه شناسی",
+      "capacity": 5007,
+      "records": 219,
+      "fields": 1,
+      "universities": 147,
+      "degrees": 2
+    },
+    {
+      "name": "زبان و ادبیات انگلیسی",
+      "capacity": 4628,
+      "records": 211,
+      "fields": 1,
+      "universities": 117,
+      "degrees": 3
+    },
+    {
+      "name": "مهندسی پزشکی",
+      "capacity": 4513,
+      "records": 152,
+      "fields": 1,
+      "universities": 91,
+      "degrees": 2
+    },
+    {
+      "name": "مهندسی شیمی",
+      "capacity": 4499,
+      "records": 231,
+      "fields": 1,
+      "universities": 96,
+      "degrees": 2
+    },
+    {
+      "name": "شیمی کاربردی",
+      "capacity": 4410,
+      "records": 243,
+      "fields": 1,
+      "universities": 131,
+      "degrees": 2
+    },
+    {
+      "name": "مددکاری اجتماعی",
+      "capacity": 4325,
+      "records": 180,
+      "fields": 1,
+      "universities": 111,
+      "degrees": 3
+    },
+    {
+      "name": "ریاضیات و کاربردها",
+      "capacity": 4226,
+      "records": 157,
+      "fields": 1,
+      "universities": 117,
+      "degrees": 2
+    },
+    {
+      "name": "علوم کامپیوتر",
+      "capacity": 4090,
+      "records": 168,
+      "fields": 1,
+      "universities": 115,
+      "degrees": 3
+    },
+    {
+      "name": "علوم سیاسی",
+      "capacity": 3994,
+      "records": 185,
+      "fields": 1,
+      "universities": 109,
+      "degrees": 2
+    },
+    {
+      "name": "فیزیک",
+      "capacity": 3349,
+      "records": 122,
+      "fields": 1,
+      "universities": 89,
+      "degrees": 3
+    },
+    {
+      "name": "شیمی محض",
+      "capacity": 3144,
+      "records": 145,
+      "fields": 1,
+      "universities": 96,
+      "degrees": 1
+    },
+    {
+      "name": "گردشگری",
+      "capacity": 3117,
+      "records": 197,
+      "fields": 1,
+      "universities": 96,
+      "degrees": 2
+    },
+    {
+      "name": "مهندسی شهرسازی",
+      "capacity": 3115,
+      "records": 120,
+      "fields": 1,
+      "universities": 97,
+      "degrees": 1
+    },
+    {
+      "name": "مدیریت کسب و کار",
+      "capacity": 2985,
+      "records": 112,
+      "fields": 1,
+      "universities": 69,
+      "degrees": 1
+    },
+    {
+      "name": "جغرافیا",
+      "capacity": 2930,
+      "records": 114,
+      "fields": 1,
+      "universities": 94,
+      "degrees": 1
+    },
+    {
+      "name": "مهندسی و علم مواد",
+      "capacity": 2825,
+      "records": 96,
+      "fields": 1,
+      "universities": 62,
+      "degrees": 1
+    },
+    {
+      "name": "ارتباط تصویری",
+      "capacity": 2761,
+      "records": 115,
+      "fields": 1,
+      "universities": 65,
+      "degrees": 2
+    },
+    {
+      "name": "آمار",
+      "capacity": 2606,
+      "records": 121,
+      "fields": 1,
+      "universities": 77,
+      "degrees": 2
+    },
+    {
+      "name": "کاردانی معماری",
+      "capacity": 2590,
+      "records": 38,
+      "fields": 1,
+      "universities": 36,
+      "degrees": 1
+    },
+    {
+      "name": "روان شناسی عمومی",
+      "capacity": 2430,
+      "records": 163,
+      "fields": 1,
+      "universities": 138,
+      "degrees": 1
+    },
+    {
+      "name": "دکتری عمومی دندانپزشکی",
+      "capacity": 2392,
+      "records": 194,
+      "fields": 1,
+      "universities": 42,
+      "degrees": 1
+    },
+    {
+      "name": "تاریخ",
+      "capacity": 2303,
+      "records": 98,
+      "fields": 1,
+      "universities": 80,
+      "degrees": 1
+    },
+    {
+      "name": "مهندسی حرفه ای معماری",
+      "capacity": 2236,
+      "records": 145,
+      "fields": 1,
+      "universities": 39,
+      "degrees": 1
+    },
+    {
+      "name": "زبان و ادبیات عربی",
+      "capacity": 2229,
+      "records": 122,
+      "fields": 1,
+      "universities": 68,
+      "degrees": 2
+    },
+    {
+      "name": "مهندسی عمران گرایش سازه",
+      "capacity": 2228,
+      "records": 239,
+      "fields": 1,
+      "universities": 131,
+      "degrees": 2
+    },
+    {
+      "name": "زیست شناسی گیاهی",
+      "capacity": 2214,
+      "records": 96,
+      "fields": 1,
+      "universities": 79,
+      "degrees": 1
+    },
+    {
+      "name": "کاردانی مدیریت صنعتی کاربردی",
+      "capacity": 2133,
+      "records": 24,
+      "fields": 1,
+      "universities": 23,
+      "degrees": 1
+    },
+    {
+      "name": "زمین شناسی",
+      "capacity": 2086,
+      "records": 83,
+      "fields": 1,
+      "universities": 70,
+      "degrees": 1
+    },
+    {
+      "name": "مهندسی حرفه ای کامپیوتر",
+      "capacity": 2054,
+      "records": 135,
+      "fields": 1,
+      "universities": 36,
+      "degrees": 1
+    },
+    {
+      "name": "بهداشت عمومی",
+      "capacity": 2053,
+      "records": 106,
+      "fields": 1,
+      "universities": 63,
+      "degrees": 1
+    },
+    {
+      "name": "فلسفه و کالم اسالمی",
+      "capacity": 2021,
+      "records": 133,
+      "fields": 1,
+      "universities": 69,
+      "degrees": 3
+    },
+    {
+      "name": "علوم آزمایشگاهی",
+      "capacity": 1977,
+      "records": 129,
+      "fields": 1,
+      "universities": 60,
+      "degrees": 1
+    },
+    {
+      "name": "طراحی لباس",
+      "capacity": 1957,
+      "records": 83,
+      "fields": 1,
+      "universities": 40,
+      "degrees": 1
+    },
+    {
+      "name": "حقوق خصوصی",
+      "capacity": 1939,
+      "records": 179,
+      "fields": 1,
+      "universities": 103,
+      "degrees": 2
+    },
+    {
+      "name": "زیست فناوری",
+      "capacity": 1919,
+      "records": 57,
+      "fields": 1,
+      "universities": 43,
+      "degrees": 1
+    },
+    {
+      "name": "مدیریت بیمه",
+      "capacity": 1846,
+      "records": 65,
+      "fields": 1,
+      "universities": 52,
+      "degrees": 1
+    },
+    {
+      "name": "میکروبیولوژی",
+      "capacity": 1840,
+      "records": 59,
+      "fields": 1,
+      "universities": 39,
+      "degrees": 2
+    },
+    {
+      "name": "مهندسی بهداشت محیط",
+      "capacity": 1814,
+      "records": 95,
+      "fields": 1,
+      "universities": 55,
+      "degrees": 1
+    },
+    {
+      "name": "مهندسی مکانیک گرایش طراحی کاربردی",
+      "capacity": 1788,
+      "records": 229,
+      "fields": 1,
+      "universities": 76,
+      "degrees": 2
+    },
+    {
+      "name": "مهندسی مکانیک گرایش تبدیل انرژی",
+      "capacity": 1785,
+      "records": 214,
+      "fields": 1,
+      "universities": 83,
+      "degrees": 2
+    },
+    {
+      "name": "فوریت های پزشکی پیش بیمارستانی",
+      "capacity": 1731,
+      "records": 200,
+      "fields": 1,
+      "universities": 61,
+      "degrees": 1
+    },
+    {
+      "name": "مهندسی نقشه برداری",
+      "capacity": 1727,
+      "records": 67,
+      "fields": 1,
+      "universities": 45,
+      "degrees": 1
+    },
+    {
+      "name": "معماری داخلی",
+      "capacity": 1714,
+      "records": 55,
+      "fields": 1,
+      "universities": 40,
+      "degrees": 2
+    },
+    {
+      "name": "مهندسی و علم کامپیوتر گرایش نرم افزار",
+      "capacity": 1659,
+      "records": 147,
+      "fields": 1,
+      "universities": 111,
+      "degrees": 1
+    },
+    {
+      "name": "تکنولوژی اتاق عمل",
+      "capacity": 1602,
+      "records": 191,
+      "fields": 1,
+      "universities": 62,
+      "degrees": 1
+    },
+    {
+      "name": "مدیریت بازرگانی گرایش بازاریابی",
+      "capacity": 1583,
+      "records": 126,
+      "fields": 1,
+      "universities": 104,
+      "degrees": 1
+    },
+    {
+      "name": "نقاشی",
+      "capacity": 1568,
+      "records": 73,
+      "fields": 1,
+      "universities": 40,
+      "degrees": 2
+    },
+    {
+      "name": "کاردانی امور بانکی",
+      "capacity": 1516,
+      "records": 20,
+      "fields": 1,
+      "universities": 20,
+      "degrees": 1
+    },
+    {
+      "name": "علوم و مهندسی صنایع غذایی ( این رشته متعلق به گروه کشاورزی است )",
+      "capacity": 1490,
+      "records": 111,
+      "fields": 1,
+      "universities": 86,
+      "degrees": 1
+    },
+    {
+      "name": "کاردان فنی الکترونیک",
+      "capacity": 1490,
+      "records": 17,
+      "fields": 1,
+      "universities": 17,
+      "degrees": 1
+    },
+    {
+      "name": "مهندسی برق گرایش سیستم قدرت",
+      "capacity": 1477,
+      "records": 140,
+      "fields": 1,
+      "universities": 105,
+      "degrees": 1
+    },
+    {
+      "name": "علوم و مهندسی محیط زیست",
+      "capacity": 1469,
+      "records": 131,
+      "fields": 1,
+      "universities": 100,
+      "degrees": 2
+    },
+    {
+      "name": "مهندسی نفت و زمین انرژی",
+      "capacity": 1463,
+      "records": 55,
+      "fields": 1,
+      "universities": 36,
+      "degrees": 1
+    },
+    {
+      "name": "روابط عمومی",
+      "capacity": 1456,
+      "records": 41,
+      "fields": 1,
+      "universities": 38,
+      "degrees": 1
+    },
+    {
+      "name": "روان شناسی تربیتی",
+      "capacity": 1437,
+      "records": 141,
+      "fields": 1,
+      "universities": 84,
+      "degrees": 2
+    },
+    {
+      "name": "مهندسی معدن",
+      "capacity": 1427,
+      "records": 55,
+      "fields": 1,
+      "universities": 30,
+      "degrees": 1
+    },
+    {
+      "name": "هوشبری",
+      "capacity": 1405,
+      "records": 166,
+      "fields": 1,
+      "universities": 55,
+      "degrees": 1
+    },
+    {
+      "name": "فقه و حقوق اسالمی",
+      "capacity": 1398,
+      "records": 50,
+      "fields": 1,
+      "universities": 33,
+      "degrees": 2
+    },
+    {
+      "name": "مهندسی بهداشت حرفه ای و ایمنی کار",
+      "capacity": 1376,
+      "records": 151,
+      "fields": 1,
+      "universities": 49,
+      "degrees": 1
+    },
+    {
+      "name": "دکتری عمومی داروسازی",
+      "capacity": 1322,
+      "records": 85,
+      "fields": 1,
+      "universities": 28,
+      "degrees": 1
+    },
+    {
+      "name": "علم اطالعات و دانش شناسی",
+      "capacity": 1273,
+      "records": 99,
+      "fields": 1,
+      "universities": 42,
+      "degrees": 1
+    },
+    {
+      "name": "کاردانی امور مالی و مالیاتی",
+      "capacity": 1270,
+      "records": 15,
+      "fields": 1,
+      "universities": 15,
+      "degrees": 1
+    },
+    {
+      "name": "مهندسی و علم کامپیوتر گرایش هوش مصنوعی",
+      "capacity": 1265,
+      "records": 118,
+      "fields": 1,
+      "universities": 78,
+      "degrees": 1
+    },
+    {
+      "name": "مدیریت امور گمرکی",
+      "capacity": 1252,
+      "records": 50,
+      "fields": 1,
+      "universities": 31,
+      "degrees": 1
+    },
+    {
+      "name": "مامایی",
+      "capacity": 1249,
+      "records": 81,
+      "fields": 1,
+      "universities": 45,
+      "degrees": 1
+    },
+    {
+      "name": "برنامه ریزی اجتماعی و تعاون",
+      "capacity": 1233,
+      "records": 46,
+      "fields": 1,
+      "universities": 43,
+      "degrees": 1
+    },
+    {
+      "name": "علوم و مهندسی آب",
+      "capacity": 1209,
+      "records": 86,
+      "fields": 1,
+      "universities": 56,
+      "degrees": 1
+    },
+    {
+      "name": "ادبیات عربی",
+      "capacity": 1192,
+      "records": 81,
+      "fields": 1,
+      "universities": 47,
+      "degrees": 1
+    },
+    {
+      "name": "مهندسی علوم دامی",
+      "capacity": 1191,
+      "records": 88,
+      "fields": 1,
+      "universities": 60,
+      "degrees": 1
+    },
+    {
+      "name": "مهندسی انرژی",
+      "capacity": 1141,
+      "records": 57,
+      "fields": 1,
+      "universities": 35,
+      "degrees": 1
+    },
+    {
+      "name": "کاردانی بیمه",
+      "capacity": 1130,
+      "records": 13,
+      "fields": 1,
+      "universities": 13,
+      "degrees": 1
+    },
+    {
+      "name": "علوم و مهندسی باغبانی",
+      "capacity": 1125,
+      "records": 74,
+      "fields": 1,
+      "universities": 43,
+      "degrees": 1
+    },
+    {
+      "name": "مهندسی پلیمر",
+      "capacity": 1122,
+      "records": 72,
+      "fields": 1,
+      "universities": 33,
+      "degrees": 2
+    }
+  ],
+  "universityScatter": [
+    {
+      "name": "دانشگاه تهران",
+      "capacity": 12402,
+      "records": 2190,
+      "fields": 837,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه تبریز",
+      "capacity": 6105,
+      "records": 1013,
+      "fields": 349,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه گیلان",
+      "capacity": 5198,
+      "records": 620,
+      "fields": 235,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه شهید بهشتی",
+      "capacity": 5073,
+      "records": 987,
+      "fields": 380,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه فردوسی مشهد",
+      "capacity": 4784,
+      "records": 783,
+      "fields": 364,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه شهید باهنر کرمان",
+      "capacity": 4368,
+      "records": 450,
+      "fields": 255,
+      "degrees": 5
+    },
+    {
+      "name": "دانشگاه خوارزمی",
+      "capacity": 4343,
+      "records": 520,
+      "fields": 257,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه اصفهان",
+      "capacity": 4298,
+      "records": 688,
+      "fields": 282,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه ارومیه",
+      "capacity": 4232,
+      "records": 635,
+      "fields": 257,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه شیراز",
+      "capacity": 4230,
+      "records": 696,
+      "fields": 322,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه یزد",
+      "capacity": 4189,
+      "records": 410,
+      "fields": 194,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه سمنان",
+      "capacity": 3989,
+      "records": 461,
+      "fields": 190,
+      "degrees": 5
+    },
+    {
+      "name": "دانشگاه مازندران",
+      "capacity": 3929,
+      "records": 520,
+      "fields": 232,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه رازی",
+      "capacity": 3752,
+      "records": 320,
+      "fields": 213,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه محقق اردبیلی",
+      "capacity": 3689,
+      "records": 371,
+      "fields": 226,
+      "degrees": 5
+    },
+    {
+      "name": "دانشگاه بیرجند",
+      "capacity": 3670,
+      "records": 357,
+      "fields": 163,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه علم و صنعت ایران",
+      "capacity": 3572,
+      "records": 433,
+      "fields": 169,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه زنجان",
+      "capacity": 3499,
+      "records": 267,
+      "fields": 184,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه شهید چمران اهواز",
+      "capacity": 3496,
+      "records": 327,
+      "fields": 240,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه سیستان و بلوچستان",
+      "capacity": 3480,
+      "records": 285,
+      "fields": 168,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه بوعلی سینا",
+      "capacity": 3467,
+      "records": 394,
+      "fields": 208,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه کردستان",
+      "capacity": 3440,
+      "records": 297,
+      "fields": 195,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه پیام نور استان خراسان رضوی - مرکز مشهد",
+      "capacity": 3410,
+      "records": 126,
+      "fields": 110,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه صنعتی اصفهان",
+      "capacity": 3399,
+      "records": 362,
+      "fields": 157,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه علامه طباطبایی",
+      "capacity": 3325,
+      "records": 638,
+      "fields": 229,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه صنعتی شاهرود",
+      "capacity": 3273,
+      "records": 336,
+      "fields": 153,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه صنعتی امیرکبیر",
+      "capacity": 3071,
+      "records": 418,
+      "fields": 181,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه الزهرا ( س )",
+      "capacity": 3029,
+      "records": 368,
+      "fields": 169,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان اصفهان - مرکز اصفهان",
+      "capacity": 2979,
+      "records": 109,
+      "fields": 95,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه قم",
+      "capacity": 2957,
+      "records": 234,
+      "fields": 117,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان فارس - مرکز شیراز",
+      "capacity": 2933,
+      "records": 102,
+      "fields": 93,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه زابل",
+      "capacity": 2921,
+      "records": 320,
+      "fields": 123,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی علم و فرهنگ",
+      "capacity": 2918,
+      "records": 117,
+      "fields": 89,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان آذربایجان شرقی - مرکز تبریز",
+      "capacity": 2841,
+      "records": 102,
+      "fields": 85,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه لرستان",
+      "capacity": 2780,
+      "records": 315,
+      "fields": 173,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی امام رضا ( ع )",
+      "capacity": 2675,
+      "records": 99,
+      "fields": 51,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه حکیم سبزواری",
+      "capacity": 2617,
+      "records": 200,
+      "fields": 127,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه تربیت مدرس",
+      "capacity": 2602,
+      "records": 629,
+      "fields": 292,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان خوزستان - مرکز اهواز",
+      "capacity": 2520,
+      "records": 79,
+      "fields": 68,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه شهید مدنی آذربایجان",
+      "capacity": 2453,
+      "records": 239,
+      "fields": 114,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه صنعتی شریف",
+      "capacity": 2448,
+      "records": 237,
+      "fields": 121,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه اراک",
+      "capacity": 2439,
+      "records": 234,
+      "fields": 134,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی شهید اشرفی اصفهانی",
+      "capacity": 2406,
+      "records": 64,
+      "fields": 58,
+      "degrees": 4
+    },
+    {
+      "name": "موسسه غیرانتفاعی کار",
+      "capacity": 2360,
+      "records": 69,
+      "fields": 45,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه صنعتی سهند",
+      "capacity": 2347,
+      "records": 170,
+      "fields": 88,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه ولی عصر ( عج ) رفسنجان",
+      "capacity": 2322,
+      "records": 205,
+      "fields": 112,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه پیام نور استان البرز - مرکز کرج",
+      "capacity": 2318,
+      "records": 107,
+      "fields": 90,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه صنعتی خواجه نصیرالدین طوسی",
+      "capacity": 2298,
+      "records": 274,
+      "fields": 118,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی زند شیراز",
+      "capacity": 2280,
+      "records": 54,
+      "fields": 52,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه بجنورد",
+      "capacity": 2262,
+      "records": 140,
+      "fields": 77,
+      "degrees": 5
+    },
+    {
+      "name": "دانشگاه کاشان",
+      "capacity": 2235,
+      "records": 379,
+      "fields": 147,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه شهرکرد",
+      "capacity": 2234,
+      "records": 256,
+      "fields": 163,
+      "degrees": 4
+    },
+    {
+      "name": "موسسه غیرانتفاعی معماری و هنر پارس",
+      "capacity": 2215,
+      "records": 62,
+      "fields": 55,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه بین المللی امام خمینی ( ره )",
+      "capacity": 2143,
+      "records": 260,
+      "fields": 143,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه یاسوج",
+      "capacity": 2136,
+      "records": 253,
+      "fields": 110,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه پیام نور استان آذربایجان غربی - مرکز ارومیه",
+      "capacity": 2129,
+      "records": 75,
+      "fields": 67,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان تهران - تهران جنوب",
+      "capacity": 2128,
+      "records": 75,
+      "fields": 54,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان قم - مرکز قم",
+      "capacity": 2097,
+      "records": 70,
+      "fields": 61,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه شاهد",
+      "capacity": 2069,
+      "records": 246,
+      "fields": 134,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی ایوانکی",
+      "capacity": 2011,
+      "records": 58,
+      "fields": 54,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه هرمزگان",
+      "capacity": 2000,
+      "records": 304,
+      "fields": 112,
+      "degrees": 5
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی شمال",
+      "capacity": 1940,
+      "records": 62,
+      "fields": 58,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه خلیج فارس",
+      "capacity": 1938,
+      "records": 133,
+      "fields": 90,
+      "degrees": 4
+    },
+    {
+      "name": "موسسه غیرانتفاعی ارشاد",
+      "capacity": 1935,
+      "records": 86,
+      "fields": 35,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی علم و هنر",
+      "capacity": 1932,
+      "records": 70,
+      "fields": 61,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان بوشهر - مرکز بوشهر",
+      "capacity": 1920,
+      "records": 67,
+      "fields": 61,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه ایلام",
+      "capacity": 1904,
+      "records": 167,
+      "fields": 122,
+      "degrees": 5
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی طلوع مهر",
+      "capacity": 1877,
+      "records": 91,
+      "fields": 46,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی شهاب دانش",
+      "capacity": 1876,
+      "records": 52,
+      "fields": 48,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی خیام",
+      "capacity": 1829,
+      "records": 45,
+      "fields": 40,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه پیام نور استان کرمانشاه - مرکز کرمانشاه",
+      "capacity": 1802,
+      "records": 68,
+      "fields": 62,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی آل طه",
+      "capacity": 1798,
+      "records": 44,
+      "fields": 38,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی آپادانا",
+      "capacity": 1795,
+      "records": 46,
+      "fields": 44,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه ملایر",
+      "capacity": 1790,
+      "records": 145,
+      "fields": 88,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان کرمان - مرکز کرمان",
+      "capacity": 1778,
+      "records": 66,
+      "fields": 59,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان همدان - مرکز همدان",
+      "capacity": 1756,
+      "records": 69,
+      "fields": 66,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی دانش البرز",
+      "capacity": 1698,
+      "records": 51,
+      "fields": 45,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان مازندران - مرکز ساری",
+      "capacity": 1678,
+      "records": 63,
+      "fields": 55,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان کردستان - مرکز سنندج",
+      "capacity": 1656,
+      "records": 61,
+      "fields": 57,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه صنعتی نوشیروانی بابل",
+      "capacity": 1637,
+      "records": 172,
+      "fields": 71,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان قزوین - مرکز قزوین",
+      "capacity": 1620,
+      "records": 60,
+      "fields": 56,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان گیلان - مرکز رشت",
+      "capacity": 1618,
+      "records": 54,
+      "fields": 51,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان هرمزگان - مرکز بندرعباس",
+      "capacity": 1601,
+      "records": 48,
+      "fields": 46,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان اردبیل - مرکز اردبیل",
+      "capacity": 1582,
+      "records": 53,
+      "fields": 50,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی هشت بهشت اصفهان پویا",
+      "capacity": 1537,
+      "records": 35,
+      "fields": 34,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه علوم پزشکی شیراز",
+      "capacity": 1526,
+      "records": 114,
+      "fields": 23,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی امام جواد ( ع )",
+      "capacity": 1520,
+      "records": 35,
+      "fields": 33,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی دانش پژوهان پیشرو",
+      "capacity": 1507,
+      "records": 42,
+      "fields": 38,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان تهران - واحد ری",
+      "capacity": 1473,
+      "records": 61,
+      "fields": 52,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی شمس",
+      "capacity": 1465,
+      "records": 37,
+      "fields": 34,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان مرکزی - مرکز اراک",
+      "capacity": 1446,
+      "records": 49,
+      "fields": 47,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان یزد - مرکز یزد",
+      "capacity": 1437,
+      "records": 58,
+      "fields": 57,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه گلستان",
+      "capacity": 1433,
+      "records": 178,
+      "fields": 87,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان چهارمحال و بختیاری - مرکز شهرکرد",
+      "capacity": 1416,
+      "records": 47,
+      "fields": 45,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی رجا",
+      "capacity": 1400,
+      "records": 38,
+      "fields": 37,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی سجاد",
+      "capacity": 1400,
+      "records": 45,
+      "fields": 43,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی آیندگان",
+      "capacity": 1386,
+      "records": 50,
+      "fields": 45,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی نبی اکرم ( ص )",
+      "capacity": 1384,
+      "records": 42,
+      "fields": 34,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی خاتم",
+      "capacity": 1381,
+      "records": 77,
+      "fields": 63,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان مازندران - مرکز بابل",
+      "capacity": 1373,
+      "records": 57,
+      "fields": 54,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان سیستان و بلوچستان - مرکز زاهدان",
+      "capacity": 1362,
+      "records": 48,
+      "fields": 47,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان زنجان - مرکز زنجان",
+      "capacity": 1348,
+      "records": 46,
+      "fields": 42,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه جامع امام حسین ( ع )",
+      "capacity": 1344,
+      "records": 207,
+      "fields": 135,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان لرستان - مرکز خرم آباد",
+      "capacity": 1334,
+      "records": 55,
+      "fields": 49,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه علوم پزشکی تبریز",
+      "capacity": 1331,
+      "records": 81,
+      "fields": 22,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه دامغان",
+      "capacity": 1330,
+      "records": 81,
+      "fields": 53,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی علامه محدث نوری",
+      "capacity": 1325,
+      "records": 40,
+      "fields": 36,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان خراسان رضوی - مرکز نیشابور",
+      "capacity": 1310,
+      "records": 25,
+      "fields": 25,
+      "degrees": 1
+    },
+    {
+      "name": "موسسه غیرانتفاعی آفاق",
+      "capacity": 1298,
+      "records": 42,
+      "fields": 40,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه علوم پزشکی شهید بهشتی",
+      "capacity": 1292,
+      "records": 83,
+      "fields": 22,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه علوم پزشکی مشهد",
+      "capacity": 1289,
+      "records": 90,
+      "fields": 21,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی فاطمیه شیراز",
+      "capacity": 1285,
+      "records": 27,
+      "fields": 25,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان ایلام - مرکز ایلام",
+      "capacity": 1280,
+      "records": 49,
+      "fields": 46,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه علوم پزشکی همدان",
+      "capacity": 1273,
+      "records": 92,
+      "fields": 22,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه مراغه",
+      "capacity": 1255,
+      "records": 96,
+      "fields": 66,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه علوم کشاورزی و منابع طبیعی ساری",
+      "capacity": 1252,
+      "records": 164,
+      "fields": 83,
+      "degrees": 5
+    },
+    {
+      "name": "موسسه غیرانتفاعی رسام کرج",
+      "capacity": 1238,
+      "records": 36,
+      "fields": 26,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان کهگیلویه و بویراحمد - مرکز یاسوج",
+      "capacity": 1236,
+      "records": 43,
+      "fields": 43,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه علوم پزشکی اصفهان",
+      "capacity": 1235,
+      "records": 82,
+      "fields": 24,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی علوم و فنون مازندران",
+      "capacity": 1235,
+      "records": 42,
+      "fields": 40,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان خراسان شمالی - مرکز بجنورد",
+      "capacity": 1230,
+      "records": 41,
+      "fields": 39,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان تهران - مرکز ورامین",
+      "capacity": 1208,
+      "records": 45,
+      "fields": 37,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه علوم کشاورزی و منابع طبیعی گرگان",
+      "capacity": 1201,
+      "records": 201,
+      "fields": 97,
+      "degrees": 4
+    },
+    {
+      "name": "موسسه غیرانتفاعی سراج",
+      "capacity": 1191,
+      "records": 41,
+      "fields": 36,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه علوم پزشکی جندی شاپور",
+      "capacity": 1181,
+      "records": 101,
+      "fields": 24,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه غیردولتی بین المللی مذاهب اسلامی",
+      "capacity": 1169,
+      "records": 53,
+      "fields": 22,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی پیشتازان",
+      "capacity": 1160,
+      "records": 27,
+      "fields": 25,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی آذرآبادگان",
+      "capacity": 1154,
+      "records": 30,
+      "fields": 29,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه علوم پزشکی تهران",
+      "capacity": 1147,
+      "records": 52,
+      "fields": 21,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی باختر",
+      "capacity": 1141,
+      "records": 27,
+      "fields": 26,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان تهران - واحد شهریار",
+      "capacity": 1134,
+      "records": 32,
+      "fields": 30,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان خراسان جنوبی - مرکز بیرجند",
+      "capacity": 1134,
+      "records": 42,
+      "fields": 41,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه سلمان فارسی",
+      "capacity": 1114,
+      "records": 69,
+      "fields": 32,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی شاندیز",
+      "capacity": 1109,
+      "records": 39,
+      "fields": 33,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی مهر آستان",
+      "capacity": 1100,
+      "records": 30,
+      "fields": 29,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی روزبهان",
+      "capacity": 1098,
+      "records": 52,
+      "fields": 49,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه علوم پزشکی مازندران",
+      "capacity": 1092,
+      "records": 69,
+      "fields": 18,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی حکیم جرجانی",
+      "capacity": 1092,
+      "records": 25,
+      "fields": 23,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی سوره",
+      "capacity": 1084,
+      "records": 48,
+      "fields": 40,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه علوم پزشکی یزد",
+      "capacity": 1081,
+      "records": 58,
+      "fields": 19,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه صنعتی ارومیه",
+      "capacity": 1076,
+      "records": 69,
+      "fields": 40,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان آذربایجان غربی - مرکز مهاباد",
+      "capacity": 1066,
+      "records": 41,
+      "fields": 39,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه علوم پزشکی بندرعباس",
+      "capacity": 1063,
+      "records": 60,
+      "fields": 16,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی ادیبان",
+      "capacity": 1060,
+      "records": 38,
+      "fields": 36,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی رحمان",
+      "capacity": 1060,
+      "records": 31,
+      "fields": 27,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی غیاث الدین جمشید کاشانی",
+      "capacity": 1056,
+      "records": 37,
+      "fields": 35,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان یزد - مرکز مهریز",
+      "capacity": 1054,
+      "records": 41,
+      "fields": 37,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان اصفهان - مرکز نجف آباد",
+      "capacity": 1050,
+      "records": 33,
+      "fields": 31,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان تهران - واحد لواسانات",
+      "capacity": 1046,
+      "records": 38,
+      "fields": 32,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان تهران - تهران غرب",
+      "capacity": 1044,
+      "records": 69,
+      "fields": 46,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه علوم پزشکی کرمان",
+      "capacity": 1042,
+      "records": 53,
+      "fields": 18,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی شرق گلستان",
+      "capacity": 1040,
+      "records": 26,
+      "fields": 25,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی مجازی ایرانیان",
+      "capacity": 1040,
+      "records": 24,
+      "fields": 22,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی علوم و فنّاوری سپاهان",
+      "capacity": 1024,
+      "records": 26,
+      "fields": 24,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان اصفهان - مرکز کاشان",
+      "capacity": 1019,
+      "records": 31,
+      "fields": 27,
+      "degrees": 2
+    },
+    {
+      "name": "مرکز آموزش عالی فنی و مهندسی بویین زهرا",
+      "capacity": 1018,
+      "records": 32,
+      "fields": 18,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان تهران - مرکز دماوند",
+      "capacity": 1014,
+      "records": 42,
+      "fields": 42,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان فارس - مرکز جهرم",
+      "capacity": 1014,
+      "records": 34,
+      "fields": 32,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی اشراق",
+      "capacity": 1009,
+      "records": 29,
+      "fields": 27,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه علوم و معارف قرآن کریم - سازمان اوقاف و امور خیریه",
+      "capacity": 1008,
+      "records": 72,
+      "fields": 7,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه علوم پزشکی زاهدان",
+      "capacity": 995,
+      "records": 75,
+      "fields": 21,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه صنعتی مالک اشتر",
+      "capacity": 994,
+      "records": 144,
+      "fields": 70,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان تهران - تهران شرق",
+      "capacity": 993,
+      "records": 63,
+      "fields": 54,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی خرد",
+      "capacity": 992,
+      "records": 33,
+      "fields": 32,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه علوم پزشکی بیرجند",
+      "capacity": 990,
+      "records": 76,
+      "fields": 16,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی ادیان و مذاهب",
+      "capacity": 984,
+      "records": 95,
+      "fields": 78,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی علوم و فنّاوری آریان",
+      "capacity": 983,
+      "records": 32,
+      "fields": 32,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه هنر ایران",
+      "capacity": 981,
+      "records": 128,
+      "fields": 48,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان مازندران - مرکز بهشهر",
+      "capacity": 980,
+      "records": 20,
+      "fields": 20,
+      "degrees": 1
+    },
+    {
+      "name": "موسسه غیرانتفاعی عقیق",
+      "capacity": 978,
+      "records": 23,
+      "fields": 23,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی فیض الاسلام",
+      "capacity": 977,
+      "records": 27,
+      "fields": 25,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان گلستان - مرکز گرگان",
+      "capacity": 970,
+      "records": 35,
+      "fields": 33,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه جیرفت",
+      "capacity": 966,
+      "records": 134,
+      "fields": 64,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه میبد",
+      "capacity": 965,
+      "records": 86,
+      "fields": 40,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه دریانوردی و علوم دریایی چابهار",
+      "capacity": 963,
+      "records": 91,
+      "fields": 39,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان خراسان رضوی - مرکز کاشمر",
+      "capacity": 960,
+      "records": 17,
+      "fields": 17,
+      "degrees": 1
+    },
+    {
+      "name": "موسسه غیرانتفاعی علامه امینی",
+      "capacity": 956,
+      "records": 20,
+      "fields": 19,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان تهران - مرکز پاکدشت",
+      "capacity": 954,
+      "records": 37,
+      "fields": 31,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه علوم پزشکی ارومیه",
+      "capacity": 950,
+      "records": 66,
+      "fields": 14,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه آیت اله العظمی بروجردی",
+      "capacity": 947,
+      "records": 77,
+      "fields": 39,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی ارم",
+      "capacity": 945,
+      "records": 22,
+      "fields": 20,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه گنبد",
+      "capacity": 936,
+      "records": 76,
+      "fields": 61,
+      "degrees": 4
+    },
+    {
+      "name": "دانشگاه اردکان",
+      "capacity": 934,
+      "records": 79,
+      "fields": 62,
+      "degrees": 5
+    },
+    {
+      "name": "موسسه غیرانتفاعی اقبال الهوری",
+      "capacity": 930,
+      "records": 23,
+      "fields": 21,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی جهاد دانشگاهی - خوزستان",
+      "capacity": 927,
+      "records": 26,
+      "fields": 23,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه ولایت",
+      "capacity": 925,
+      "records": 105,
+      "fields": 41,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی راغب اصفهانی",
+      "capacity": 925,
+      "records": 32,
+      "fields": 30,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان کردستان - مرکز سقز",
+      "capacity": 924,
+      "records": 28,
+      "fields": 27,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان آذربایجان غربی - مرکز میاندوآب",
+      "capacity": 921,
+      "records": 32,
+      "fields": 30,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان تهران - مرکز پرند",
+      "capacity": 920,
+      "records": 32,
+      "fields": 26,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه علوم پزشکی کرمانشاه",
+      "capacity": 915,
+      "records": 72,
+      "fields": 20,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی غزالی",
+      "capacity": 910,
+      "records": 20,
+      "fields": 18,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان یزد - مرکز اردکان",
+      "capacity": 910,
+      "records": 19,
+      "fields": 19,
+      "degrees": 1
+    },
+    {
+      "name": "دانشگاه پیام نور استان آذربایجان غربی - مرکز خوی",
+      "capacity": 909,
+      "records": 34,
+      "fields": 33,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی پاسارگاد",
+      "capacity": 907,
+      "records": 25,
+      "fields": 25,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان سمنان - مرکز سمنان",
+      "capacity": 904,
+      "records": 41,
+      "fields": 41,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی قرآن و حدیث",
+      "capacity": 902,
+      "records": 43,
+      "fields": 19,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی سهروردی",
+      "capacity": 900,
+      "records": 22,
+      "fields": 20,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی راهبرد شمال",
+      "capacity": 890,
+      "records": 34,
+      "fields": 31,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان اصفهان - مرکز آران و بیدگل",
+      "capacity": 890,
+      "records": 28,
+      "fields": 24,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی خزر",
+      "capacity": 887,
+      "records": 29,
+      "fields": 24,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی نقش جهان",
+      "capacity": 886,
+      "records": 38,
+      "fields": 37,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی خراسان",
+      "capacity": 875,
+      "records": 23,
+      "fields": 23,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی حافظ",
+      "capacity": 874,
+      "records": 19,
+      "fields": 15,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان خوزستان - مرکز آبادان",
+      "capacity": 870,
+      "records": 20,
+      "fields": 19,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان آذربایجان شرقی - مرکز شبستر",
+      "capacity": 870,
+      "records": 24,
+      "fields": 24,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان آذربایجان شرقی - مرکز مرند",
+      "capacity": 866,
+      "records": 24,
+      "fields": 23,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی کمال الملک",
+      "capacity": 863,
+      "records": 28,
+      "fields": 23,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی جهاد دانشگاهی - اصفهان",
+      "capacity": 861,
+      "records": 28,
+      "fields": 26,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی هاتف",
+      "capacity": 861,
+      "records": 35,
+      "fields": 33,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان خوزستان - مرکز دزفول",
+      "capacity": 860,
+      "records": 31,
+      "fields": 30,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی سارویه",
+      "capacity": 860,
+      "records": 20,
+      "fields": 19,
+      "degrees": 3
+    },
+    {
+      "name": "موسسه غیرانتفاعی مجازی فاران مهر دانش",
+      "capacity": 859,
+      "records": 16,
+      "fields": 15,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی کوشیار",
+      "capacity": 853,
+      "records": 23,
+      "fields": 20,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه علوم پزشکی ایران",
+      "capacity": 845,
+      "records": 38,
+      "fields": 17,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی بین المللی علامه عسکری ( ره )",
+      "capacity": 840,
+      "records": 26,
+      "fields": 14,
+      "degrees": 1
+    },
+    {
+      "name": "دانشگاه پیام نور استان مرکزی - مرکز ساوه",
+      "capacity": 839,
+      "records": 34,
+      "fields": 31,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی راهیان نوین دانش",
+      "capacity": 838,
+      "records": 20,
+      "fields": 20,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان کرمان - مرکز سیرجان",
+      "capacity": 836,
+      "records": 31,
+      "fields": 31,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه علوم پزشکی زنجان",
+      "capacity": 835,
+      "records": 63,
+      "fields": 16,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه علم و فنّاوری مازندران",
+      "capacity": 833,
+      "records": 84,
+      "fields": 34,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان هرمزگان - واحد قشم",
+      "capacity": 831,
+      "records": 48,
+      "fields": 42,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه علوم پزشکی لرستان",
+      "capacity": 831,
+      "records": 79,
+      "fields": 18,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان خراسان رضوی - مرکز تربت حیدریه",
+      "capacity": 829,
+      "records": 32,
+      "fields": 31,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان آذربایجان شرقی - مرکز بناب",
+      "capacity": 826,
+      "records": 23,
+      "fields": 22,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه علوم پزشکی گیلان",
+      "capacity": 821,
+      "records": 60,
+      "fields": 14,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان اصفهان - مرکز شهرضا",
+      "capacity": 820,
+      "records": 27,
+      "fields": 26,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه غیرانتفاعی مجازی مهر البرز",
+      "capacity": 819,
+      "records": 35,
+      "fields": 34,
+      "degrees": 1
+    },
+    {
+      "name": "موسسه غیرانتفاعی بینالود",
+      "capacity": 815,
+      "records": 29,
+      "fields": 26,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی ادیب مازندران",
+      "capacity": 806,
+      "records": 30,
+      "fields": 28,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی فروردین",
+      "capacity": 795,
+      "records": 30,
+      "fields": 29,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان مازندران - مرکز رامسر",
+      "capacity": 795,
+      "records": 28,
+      "fields": 27,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه علوم پزشکی بابل",
+      "capacity": 794,
+      "records": 41,
+      "fields": 17,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان یزد - مرکز تفت",
+      "capacity": 793,
+      "records": 35,
+      "fields": 33,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان تهران - واحد اسلامشهر",
+      "capacity": 790,
+      "records": 27,
+      "fields": 21,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان خراسان رضوی - مرکز سبزوار",
+      "capacity": 790,
+      "records": 23,
+      "fields": 22,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان آذربایجان شرقی - مرکز مراغه",
+      "capacity": 788,
+      "records": 23,
+      "fields": 22,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه هنر اصفهان",
+      "capacity": 785,
+      "records": 88,
+      "fields": 49,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه هنر اسلامی تبریز",
+      "capacity": 785,
+      "records": 73,
+      "fields": 40,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه کوثر",
+      "capacity": 783,
+      "records": 29,
+      "fields": 24,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه علوم انتظامی امین - تهران - فرماندهی انتظامی جمهوری اسلامی ایران",
+      "capacity": 782,
+      "records": 23,
+      "fields": 23,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه تربیت دبیر شهید رجایی",
+      "capacity": 781,
+      "records": 139,
+      "fields": 72,
+      "degrees": 2
+    },
+    {
+      "name": "موسسه غیرانتفاعی راه دانش",
+      "capacity": 781,
+      "records": 23,
+      "fields": 21,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان مازندران - مرکز آمل",
+      "capacity": 780,
+      "records": 22,
+      "fields": 22,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان سمنان - مرکز گرمسار",
+      "capacity": 778,
+      "records": 38,
+      "fields": 38,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان فارس - مرکز کازرون",
+      "capacity": 770,
+      "records": 22,
+      "fields": 19,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه پیام نور استان کهگیلویه و بویراحمد - واحد دهدشت",
+      "capacity": 766,
+      "records": 22,
+      "fields": 22,
+      "degrees": 2
+    },
+    {
+      "name": "دانشگاه بناب",
+      "capacity": 764,
+      "records": 44,
+      "fields": 39,
+      "degrees": 4
+    },
+    {
+      "name": "موسسه غیرانتفاعی مازیار",
+      "capacity": 760,
+      "records": 33,
+      "fields": 30,
+      "degrees": 3
+    },
+    {
+      "name": "دانشگاه پیام نور استان تهران - تهران شمال",
+      "capacity": 759,
+      "records": 33,
+      "fields": 27,
+      "degrees": 3
+    }
+  ],
+  "degreeSubsystem": {
+    "rows": [
+      "کاردانی",
+      "کارشناسی",
+      "کارشناسی ارشد",
+      "دکتری حرفه ای",
+      "دکتری تخصصی (Ph.D)"
+    ],
+    "columns": [
+      "دانشگاه/مؤسسه دولتی - وزارت علوم",
+      "دانشگاه پیام نور",
+      "مؤسسات آموزش عالی غیردولتی - غیرانتفاعی",
+      "دانشگاه‌ها و دانشکده‌های علوم پزشکی",
+      "پردیس خودگردان دانشگاه دولتی",
+      "دانشگاه/مؤسسه وابسته به دستگاه اجرایی یا نیروهای مسلح",
+      "دانشگاه آزاد اسلامی",
+      "آموزش عالی غیردولتی / ظرفیت مشترک",
+      "دانشگاه تربیت دبیر شهید رجایی",
+      "دانشگاه فرهنگیان",
+      "دانشگاه/مؤسسه وابسته به قوه قضاییه",
+      "دانشگاه/مؤسسه وابسته به صدا و سیما"
+    ],
+    "values": [
+      {
+        "row": "کاردانی",
+        "column": "دانشگاه/مؤسسه دولتی - وزارت علوم",
+        "value": 1499
+      },
+      {
+        "row": "کاردانی",
+        "column": "دانشگاه پیام نور",
+        "value": 0
+      },
+      {
+        "row": "کاردانی",
+        "column": "مؤسسات آموزش عالی غیردولتی - غیرانتفاعی",
+        "value": 19896
+      },
+      {
+        "row": "کاردانی",
+        "column": "دانشگاه‌ها و دانشکده‌های علوم پزشکی",
+        "value": 1001
+      },
+      {
+        "row": "کاردانی",
+        "column": "پردیس خودگردان دانشگاه دولتی",
+        "value": 0
+      },
+      {
+        "row": "کاردانی",
+        "column": "دانشگاه/مؤسسه وابسته به دستگاه اجرایی یا نیروهای مسلح",
+        "value": 0
+      },
+      {
+        "row": "کاردانی",
+        "column": "دانشگاه آزاد اسلامی",
+        "value": 0
+      },
+      {
+        "row": "کاردانی",
+        "column": "آموزش عالی غیردولتی / ظرفیت مشترک",
+        "value": 0
+      },
+      {
+        "row": "کاردانی",
+        "column": "دانشگاه تربیت دبیر شهید رجایی",
+        "value": 0
+      },
+      {
+        "row": "کاردانی",
+        "column": "دانشگاه فرهنگیان",
+        "value": 0
+      },
+      {
+        "row": "کاردانی",
+        "column": "دانشگاه/مؤسسه وابسته به قوه قضاییه",
+        "value": 0
+      },
+      {
+        "row": "کاردانی",
+        "column": "دانشگاه/مؤسسه وابسته به صدا و سیما",
+        "value": 0
+      },
+      {
+        "row": "کارشناسی",
+        "column": "دانشگاه/مؤسسه دولتی - وزارت علوم",
+        "value": 123168
+      },
+      {
+        "row": "کارشناسی",
+        "column": "دانشگاه پیام نور",
+        "value": 159390
+      },
+      {
+        "row": "کارشناسی",
+        "column": "مؤسسات آموزش عالی غیردولتی - غیرانتفاعی",
+        "value": 101815
+      },
+      {
+        "row": "کارشناسی",
+        "column": "دانشگاه‌ها و دانشکده‌های علوم پزشکی",
+        "value": 23257
+      },
+      {
+        "row": "کارشناسی",
+        "column": "پردیس خودگردان دانشگاه دولتی",
+        "value": 1311
+      },
+      {
+        "row": "کارشناسی",
+        "column": "دانشگاه/مؤسسه وابسته به دستگاه اجرایی یا نیروهای مسلح",
+        "value": 90
+      },
+      {
+        "row": "کارشناسی",
+        "column": "دانشگاه آزاد اسلامی",
+        "value": 0
+      },
+      {
+        "row": "کارشناسی",
+        "column": "آموزش عالی غیردولتی / ظرفیت مشترک",
+        "value": 988
+      },
+      {
+        "row": "کارشناسی",
+        "column": "دانشگاه تربیت دبیر شهید رجایی",
+        "value": 170
+      },
+      {
+        "row": "کارشناسی",
+        "column": "دانشگاه فرهنگیان",
+        "value": 0
+      },
+      {
+        "row": "کارشناسی",
+        "column": "دانشگاه/مؤسسه وابسته به قوه قضاییه",
+        "value": 80
+      },
+      {
+        "row": "کارشناسی",
+        "column": "دانشگاه/مؤسسه وابسته به صدا و سیما",
+        "value": 216
+      },
+      {
+        "row": "کارشناسی ارشد",
+        "column": "دانشگاه/مؤسسه دولتی - وزارت علوم",
+        "value": 70112
+      },
+      {
+        "row": "کارشناسی ارشد",
+        "column": "دانشگاه پیام نور",
+        "value": 19948
+      },
+      {
+        "row": "کارشناسی ارشد",
+        "column": "مؤسسات آموزش عالی غیردولتی - غیرانتفاعی",
+        "value": 33908
+      },
+      {
+        "row": "کارشناسی ارشد",
+        "column": "دانشگاه‌ها و دانشکده‌های علوم پزشکی",
+        "value": 4
+      },
+      {
+        "row": "کارشناسی ارشد",
+        "column": "پردیس خودگردان دانشگاه دولتی",
+        "value": 4912
+      },
+      {
+        "row": "کارشناسی ارشد",
+        "column": "دانشگاه/مؤسسه وابسته به دستگاه اجرایی یا نیروهای مسلح",
+        "value": 2551
+      },
+      {
+        "row": "کارشناسی ارشد",
+        "column": "دانشگاه آزاد اسلامی",
+        "value": 0
+      },
+      {
+        "row": "کارشناسی ارشد",
+        "column": "آموزش عالی غیردولتی / ظرفیت مشترک",
+        "value": 286
+      },
+      {
+        "row": "کارشناسی ارشد",
+        "column": "دانشگاه تربیت دبیر شهید رجایی",
+        "value": 730
+      },
+      {
+        "row": "کارشناسی ارشد",
+        "column": "دانشگاه فرهنگیان",
+        "value": 700
+      },
+      {
+        "row": "کارشناسی ارشد",
+        "column": "دانشگاه/مؤسسه وابسته به قوه قضاییه",
+        "value": 500
+      },
+      {
+        "row": "کارشناسی ارشد",
+        "column": "دانشگاه/مؤسسه وابسته به صدا و سیما",
+        "value": 124
+      },
+      {
+        "row": "دکتری حرفه ای",
+        "column": "دانشگاه/مؤسسه دولتی - وزارت علوم",
+        "value": 1733
+      },
+      {
+        "row": "دکتری حرفه ای",
+        "column": "دانشگاه پیام نور",
+        "value": 0
+      },
+      {
+        "row": "دکتری حرفه ای",
+        "column": "مؤسسات آموزش عالی غیردولتی - غیرانتفاعی",
+        "value": 40
+      },
+      {
+        "row": "دکتری حرفه ای",
+        "column": "دانشگاه‌ها و دانشکده‌های علوم پزشکی",
+        "value": 16682
+      },
+      {
+        "row": "دکتری حرفه ای",
+        "column": "پردیس خودگردان دانشگاه دولتی",
+        "value": 20
+      },
+      {
+        "row": "دکتری حرفه ای",
+        "column": "دانشگاه/مؤسسه وابسته به دستگاه اجرایی یا نیروهای مسلح",
+        "value": 0
+      },
+      {
+        "row": "دکتری حرفه ای",
+        "column": "دانشگاه آزاد اسلامی",
+        "value": 2515
+      },
+      {
+        "row": "دکتری حرفه ای",
+        "column": "آموزش عالی غیردولتی / ظرفیت مشترک",
+        "value": 0
+      },
+      {
+        "row": "دکتری حرفه ای",
+        "column": "دانشگاه تربیت دبیر شهید رجایی",
+        "value": 0
+      },
+      {
+        "row": "دکتری حرفه ای",
+        "column": "دانشگاه فرهنگیان",
+        "value": 0
+      },
+      {
+        "row": "دکتری حرفه ای",
+        "column": "دانشگاه/مؤسسه وابسته به قوه قضاییه",
+        "value": 0
+      },
+      {
+        "row": "دکتری حرفه ای",
+        "column": "دانشگاه/مؤسسه وابسته به صدا و سیما",
+        "value": 0
+      },
+      {
+        "row": "دکتری تخصصی (Ph.D)",
+        "column": "دانشگاه/مؤسسه دولتی - وزارت علوم",
+        "value": 12942
+      },
+      {
+        "row": "دکتری تخصصی (Ph.D)",
+        "column": "دانشگاه پیام نور",
+        "value": 220
+      },
+      {
+        "row": "دکتری تخصصی (Ph.D)",
+        "column": "مؤسسات آموزش عالی غیردولتی - غیرانتفاعی",
+        "value": 582
+      },
+      {
+        "row": "دکتری تخصصی (Ph.D)",
+        "column": "دانشگاه‌ها و دانشکده‌های علوم پزشکی",
+        "value": 0
+      },
+      {
+        "row": "دکتری تخصصی (Ph.D)",
+        "column": "پردیس خودگردان دانشگاه دولتی",
+        "value": 1207
+      },
+      {
+        "row": "دکتری تخصصی (Ph.D)",
+        "column": "دانشگاه/مؤسسه وابسته به دستگاه اجرایی یا نیروهای مسلح",
+        "value": 273
+      },
+      {
+        "row": "دکتری تخصصی (Ph.D)",
+        "column": "دانشگاه آزاد اسلامی",
+        "value": 0
+      },
+      {
+        "row": "دکتری تخصصی (Ph.D)",
+        "column": "آموزش عالی غیردولتی / ظرفیت مشترک",
+        "value": 22
+      },
+      {
+        "row": "دکتری تخصصی (Ph.D)",
+        "column": "دانشگاه تربیت دبیر شهید رجایی",
+        "value": 49
+      },
+      {
+        "row": "دکتری تخصصی (Ph.D)",
+        "column": "دانشگاه فرهنگیان",
+        "value": 0
+      },
+      {
+        "row": "دکتری تخصصی (Ph.D)",
+        "column": "دانشگاه/مؤسسه وابسته به قوه قضاییه",
+        "value": 15
+      },
+      {
+        "row": "دکتری تخصصی (Ph.D)",
+        "column": "دانشگاه/مؤسسه وابسته به صدا و سیما",
+        "value": 10
+      }
+    ]
+  },
+  "capacityHistogram": [
+    {
+      "name": "۱",
+      "records": 4360,
+      "capacity": 4360
+    },
+    {
+      "name": "۲",
+      "records": 3978,
+      "capacity": 7956
+    },
+    {
+      "name": "۳ تا ۵",
+      "records": 8728,
+      "capacity": 34550
+    },
+    {
+      "name": "۶ تا ۱۰",
+      "records": 7499,
+      "capacity": 60452
+    },
+    {
+      "name": "۱۱ تا ۲۰",
+      "records": 7440,
+      "capacity": 128462
+    },
+    {
+      "name": "۲۱ تا ۳۰",
+      "records": 3049,
+      "capacity": 84809
+    },
+    {
+      "name": "۳۱ تا ۵۰",
+      "records": 3510,
+      "capacity": 151310
+    },
+    {
+      "name": "۵۱ تا ۷۵",
+      "records": 1650,
+      "capacity": 99206
+    },
+    {
+      "name": "۷۶ تا ۱۰۰",
+      "records": 276,
+      "capacity": 26515
+    },
+    {
+      "name": "بیش از ۱۰۰",
+      "records": 44,
+      "capacity": 5346
+    }
+  ],
+  "completeness": {
+    "province": {
+      "recordsKnown": 40534,
+      "recordsTotal": 40534,
+      "recordCoveragePct": 100.0,
+      "capacityKnown": 602966,
+      "capacityUnknown": 0
+    },
+    "city": {
+      "recordsKnown": 40534,
+      "recordsTotal": 40534,
+      "recordCoveragePct": 100.0
+    },
+    "notes": {
+      "recordsKnown": 17448,
+      "recordsTotal": 40534,
+      "recordCoveragePct": 43.05
+    }
+  },
+  "insights": [
+    {
+      "title": "بیشترین ظرفیت در مقطع کارشناسی است",
+      "value": 410485,
+      "unit": "نفر",
+      "description": "جمع ظرفیت فعال رشته‌محل‌های کارشناسی در داده‌های ۱۴۰۴."
+    },
+    {
+      "title": "سهم پذیرش مختلط",
+      "value": 92.2,
+      "unit": "درصد",
+      "description": "سهم ظرفیت رشته‌محل‌هایی که جنس پذیرش آن‌ها «زن و مرد» ثبت شده است."
+    },
+    {
+      "title": "سهم پذیرش صرفاً با سوابق تحصیلی",
+      "value": 51.0,
+      "unit": "درصد",
+      "description": "نسبت ظرفیت پذیرش صرفاً براساس سوابق تحصیلی به کل ظرفیت فعال مجموعه داده."
+    },
+    {
+      "title": "بزرگ‌ترین زیرنظام از نظر ظرفیت",
+      "value": 209454,
+      "unit": "نفر",
+      "description": "دانشگاه/مؤسسه دولتی - وزارت علوم"
+    },
+    {
+      "title": "دانشگاه با بیشترین ظرفیت تجمیعی",
+      "value": 12402,
+      "unit": "نفر",
+      "description": "دانشگاه تهران"
+    },
+    {
+      "title": "رشته/گرایش با بیشترین ظرفیت تجمیعی",
+      "value": 25713,
+      "unit": "نفر",
+      "description": "حسابداری"
+    }
+  ]
+}
