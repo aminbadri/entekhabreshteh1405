@@ -1,6 +1,9 @@
 from pathlib import Path
 import json,re,csv
-from .normalize import normalize_fa, slug
+try:
+    from .normalize import normalize_fa, slug
+except ImportError:
+    from normalize import normalize_fa, slug
 ROOT=Path(__file__).resolve().parents[1]
 PAGES=ROOT/"data/processed/jobvision_pages"
 OUT=ROOT/"site/data"
