@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "source_year": 1405,
+  "generated_at_utc": "2026-10-02T20:35:32.809790+00:00",
+  "jobvision": {
+    "expected_pages": 263,
+    "mapped_records": 0,
+    "review_queue_pages": 29
+  },
+  "matching": {
+    "jobvision": 0,
+    "matched": 0,
+    "ambiguous": 0
+  },
+  "policy": {
+    "synthetic_values": false,
+    "ambiguous_matches_are_not_promoted": true,
+    "unmatched_records_are_not_promoted": true
+  }
+}
