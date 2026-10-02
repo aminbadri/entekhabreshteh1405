@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+_site/
+data/raw/
+data/processed/jobvision_pages/
+data/metadata/page_contact_sheets/
